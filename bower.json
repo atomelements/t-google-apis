@@ -25,12 +25,12 @@
     "tests"
   ],
   "dependencies": { 
-    "iron-jsonp-library": "PolymerElements/iron-jsonp-library#1.0.3", 
+    "iron-jsonp-library": "PolymerElements/iron-jsonp-library#^1.0.3", 
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
     "web-component-tester": "*",
-    "webcomponentsjs": "~0.7.14",
-    "iron-component-page": "PolymerElements/iron-component-page#~1.0.6"
+    "webcomponentsjs": "^0.7.14",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.6"
   }
 }
